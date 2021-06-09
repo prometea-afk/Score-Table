@@ -14,7 +14,6 @@ function App() {
 
       <div className="container bodyy">
         <View1 />
-        {/* <DeleteAll DeleteCards={DeleteCards} /> */}
       </div>
     </div>
   );
